@@ -26,32 +26,36 @@ Please see the appropriate guide for your environment of choice.
 
 <br>
 --Description--
-<br>
 
+<br>
 1.This is a video creation in a Html website.
+
 
 <br>
 2.This Html Website contains a fetched video from the web and the video is inserted into the Html Website with use of coding a html file.
 
+
 <br>
 --Submission process--
-<br>
 
+
+<br>
 1.Go through your work carefuly beffor pushing your created files to git hub.
 
-<br>
 
+<br>
 2.Use git add .  to add your work to git hub.
 
-<br>
 
+<br>
 3.Use git commit -m "done" to finalize your project to git hub.
+
 
 <br>
 4. Use git push origin main or master according to your branch name so as to push all  made files to git hub.
 
-<br>
 
+<br>
 5.Finally submitt your Url to the designated project.
 
 <br>
