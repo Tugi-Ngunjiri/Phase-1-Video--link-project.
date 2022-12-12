@@ -23,6 +23,8 @@ Please see the appropriate guide for your environment of choice.
 5.Write the last code so as to view your website ie  json-server --watch db.json --port 8000
 <br>
 6.After Downloading your ubuntu decoder view the video in an mp4 file.
+
+
 <br>
 --Description--
 
