@@ -24,9 +24,6 @@ Please see the appropriate guide for your environment of choice.
 <br>
 6.After Downloading your ubuntu decoder view the video in an mp4 file.
 <br>
-
-
-
 --Description--
 <br>
 
@@ -35,7 +32,6 @@ Please see the appropriate guide for your environment of choice.
 <br>
 2.This Html Website contains a fetched video from the web and the video is inserted into the Html Website with use of coding a html file.
 <br>
-
 --Submission process--
 <br>
 
